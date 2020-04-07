@@ -1,0 +1,123 @@
+District,State,Lat,Lon,Cumulative cases as at 5 April 2020
+Arau,Perlis,6.429708,100.269844,13
+Baling,Kedah,5.6755,100.9168,1
+Kota Setar,Kedah,6.097,100.354,23
+Kuala Muda,Kedah,5.6446,100.489,33
+Kubang Pasu,Kedah,6.3726,100.437,8
+Kulim,Kedah,5.3717,100.5553,7
+Langkawi,Kedah,6.35,99.8,4
+Padang Terap,Kedah,6.2568,100.611,1
+Pendang,Kedah,5.993,100.4773,3
+Bandar Bahru,Kedah,5.1312,100.4955,1
+Sik,Kedah,5.8183,100.743,1
+Yan,Kedah,5.795,100.3727,0
+Seberang Perai Tengah,Pulau Pinang,5.3535,100.4518,37
+Timur Laut,Pulau Pinang,5.4142,100.3285,27
+Seberang Perai Selatan,Pulau Pinang,5.1958,100.4921,10
+Barat Daya,Pulau Pinang,5.3519,100.2359,10
+Seberang Perai Utara,Pulau Pinang,5.5148,100.4355,17
+Hilir Perak,Perak,4.0209,101.023,65
+Kinta,Perak,4.5981,101.0899,84
+Perak Tengah,Perak,4.363,100.9554,7
+"Larut, Patang, Selama",Perak,4.8547,100.7436,16
+Manjung,Perak,4.4022,100.7098,16
+Kuala Kangsar,Perak,4.7736, 100.9420,2
+Hulu Perak,Perak,5.4294,101.1238,5
+Kerian,Perak,5.0153,100.5746,13
+Batang Padang,Perak,4.1975,101.2593,3
+Muallim,Perak,3.7246,101.5236,2
+Kampar,Perak,4.3085,101.1537,0
+Petaling,Selangor,3.1846,101.536,292
+Hulu Langat,Selangor,3.1131,101.8157,318
+Gombak,Selangor,3.2535,101.6533,100
+Klang,Selangor,3.0449,101.4456,109
+Kuala Selangor,Selangor,3.3402,101.2498,29
+Sepang,Selangor,2.6914,101.7505,39
+Kuala Langat,Selangor,2.8038,101.4951,21
+Sabak Bernam,Selangor,3.7696,100.9837,10
+Hulu Selangor,Selangor,3.5601,101.6583,25
+Putrajaya,Putrajaya,2.9264,101.6964,37
+Cheras,Kuala Lumpur,3.1068,101.7259,44
+Kepong,Kuala Lumpur,3.214,101.6356,112
+Lembah Pantai,Kuala Lumpur,3.129,101.6798,376
+Titiwangsa,Kuala Lumpur,3.1774,101.7077,90
+Alor Gajah,Melaka,2.3822,102.2116,23
+Jasin,Melaka,2.3113,102.4309,38
+Melaka Tengah,Melaka,2.2711,102.2887,28
+Jelebu,N. Sembilan,2.9411,102.0719,1
+Jempol,N. Sembilan,2.8966,102.4055,7
+Kuala Pilah,N. Sembilan,2.7405,102.2489,4
+Port Dickson,N. Sembilan,2.5225,101.7963,7
+Rembau,N. Sembilan,2.5905,102.093,40
+Seremban,N. Sembilan,2.7259,101.9378,156
+Tampin,N. Sembilan,2.473,102.2312,16
+Batu Pahat,Johor,1.8469,102.9352,47
+Johor Bahru,Johor,1.4927,103.7414,139
+Kluang,Johor,2.0301,103.3185,147
+Kulai,Johor,1.663,103.5999,24
+Mersing,Johor,2.4309,103.8361,4
+Muar,Johor,2.0631,102.5849,29
+Pontian,Johor,1.4869,103.389,14
+Segamat,Johor,2.5035,102.8208,14
+Kota Tinggi,Johor,1.7294,103.8992,14
+Tangkak,Johor,2.2711,102.542,6
+Bentong,Pahang,3.5222,101.9104,10
+Jerantut,Pahang,3.9374,102.362,60
+Bera,Pahang,3.2705,102.4539,9
+Raub,Pahang,3.7935,101.8575,1
+Lipis,Pahang,4.1843,102.0542,6
+Cameron Highlands,Pahang,4.4721,101.3801,2
+Kuantan,Pahang,3.7634,103.2202,36
+Maran,Pahang,3.5834,102.7791,5
+Pekan,Pahang,3.4921,103.3895,22
+Temerloh,Pahang,3.4486,102.4163,5
+Rompin,Pahang,2.7945,103.4862,2
+Besut,Terengganu,5.7953,102.5635,26
+Dungun,Terengganu,4.7549,103.4156,27
+Kemaman,Terengganu,4.2338,103.3638,4
+Kuala  Terengganu,Terengganu,5.3296,103.137,17
+Marang,Terengganu,5.2077,103.2049,1
+Kuala Nerus,Terengganu,5.3679,103.0472,2
+Setiu,Terengganu,5.4442,102.8285,7
+Hulu Terengganu,Terengganu,5.073,103.0089,0
+Bachok,Kelantan,6.0477,102.3945,11
+Gua Musang,Kelantan,4.8843,101.9682,2
+Kota Bharu,Kelantan,6.1248,102.2544,82
+Tanah Merah,Kelantan,5.8089,102.1471,4
+Kuala Krai,Kelantan,5.5308,102.2019,11
+Pasir Mas,Kelantan,6.0424,102.1428,10
+Pasir Puteh,Kelantan,5.8362,102.4077,8
+Tumpat,Kelantan,6.1991,102.1694,12
+Jeli,Kelantan,5.7007,101.8432,1
+Machang,Kelantan,5.7679,102.2154,0
+Kota Kinabalu,Sabah,5.9804,116.0735,34
+Beaufort,Sabah,5.3451,115.7451,9
+Kinabatangan,Sabah,5.5865,117.8501,17
+Kota Belud,Sabah,6.3532,116.4279,5
+Kunak,Sabah,4.6861,118.2511,8
+Lahad Datu,Sabah,5.0242,118.3307,38
+Papar,Sabah,5.7346,115.9319,2
+Putatan,Sabah,5.8912,116.0485,7
+Sandakan,Sabah,5.8394,118.1172,19
+Semporna,Sabah,4.4794,118.6115,2
+Sipitang,Sabah,5.0792,115.5508,4
+Tawau,Sabah,4.2447,117.8912,67
+Ranau,Sabah,5.9536,116.664,2
+Tuaran,Sabah,6.1763,116.2328,17
+Tambunan,Sabah,5.7213,116.4108,1
+Penampang,Sabah,5.8634,116.2601,6
+Kuching,Sarawak,1.5535,110.3593,261
+Kota Samarahan,Sarawak,1.4599,110.4883,36
+Limbang,Sarawak,4.755,115.0081,7
+Serian,Sarawak,1.167,110.5665,6
+Miri,Sarawak,4.3995,113.9914,14
+Sarikei,Sarawak,2.1317,111.5237,6
+Bintulu,Sarawak,3.1713,113.0419,5
+Simunjan,Sarawak,1.2406,110.6923,1
+Mukah,Sarawak,2.8997,112.0934,1
+Betong,Sarawak,1.4115,111.529,13
+Lawas,Sarawak,4.8613,115.4068,1
+Sibu,Sarawak,2.2873,111.8305,4
+Sri Aman,Sarawak,1.237,111.4621,1
+Matu,Sarawak,2.6955,111.4717,1
+Labuan,Labuan,5.2831,115.2308,11
